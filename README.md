@@ -2,6 +2,7 @@
 
 <a href="https://www.bradyharanblog.com/blog/mondrian-art-puzzle">MONDRAIN PROJECT</a>
 
-<img src="![image](https://github.com/LAHSIVA/MONDRAIN-PROJECT/assets/99829445/8ac2f79e-bc24-4c9d-8b27-0af01de63bb1)
-" alt="mondrain image">
+<h1><b>DEMO MONDRAIN IMAGE 1<b></h1>
+
+<img src="mondrain.png" alt="mondrain-image">
 
