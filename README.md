@@ -1,3 +1,4 @@
 # MONDRAIN-PROJECT
 
-<img src="https://www.bradyharanblog.com/blog/mondrian-art-puzzle" alt="Mondrain Project">
+<a href="https://www.bradyharanblog.com/blog/mondrian-art-puzzle">MONDRAIN PROJECT</a>
+
